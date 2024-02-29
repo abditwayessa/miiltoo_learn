@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775091764181",
+    "project_id": "miiltoo-learn-c4757",
+    "storage_bucket": "miiltoo-learn-c4757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775091764181:android:eb51d70da724458e961b5c",
+        "android_client_info": {
+          "package_name": "com.miiltootech.miiltoolearn.miiltoo_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTO3NVX2kzva-m0bQo1nSBTDCchktxuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
